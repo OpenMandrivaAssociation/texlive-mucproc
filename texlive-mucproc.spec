@@ -1,6 +1,6 @@
 Name:		texlive-mucproc
 Version:	43445
-Release:	1
+Release:	2
 Summary:	Conference proceedings for the German MuC-conference
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mucproc
