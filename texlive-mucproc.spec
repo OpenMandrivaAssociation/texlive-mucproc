@@ -3,7 +3,7 @@ Version:	43445
 Release:	2
 Summary:	Conference proceedings for the German MuC-conference
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mucproc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mucproc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mucproc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mucproc.doc.r%{version}.tar.xz
